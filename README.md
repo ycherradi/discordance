@@ -22,14 +22,14 @@
   <p align="center">
     Discordance is a clone of Discord. Whether you’re part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discordance makes it easy to talk every day and hang out more often. Discordance servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat.
     <br />
-    <a href="https://github.com/nkuek/discordance/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ycherradi/discordance/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="hhttps://discordanc3.herokuapp.com/discover">View Site</a>
     ·
-    <a href="https://github.com/nkuek/discordance/issues">Report Bug</a>
+    <a href="https://github.com/ycherradi/discordance/issues">Report Bug</a>
     ·
-    <a href="https://github.com/nkuek/discordance/issues">Request Feature</a>
+    <a href="https://github.com/ycherradi/discordance/issues">Request Feature</a>
   </p>
 </p>
 
@@ -105,7 +105,7 @@ Here is everything we need you to do to get started with Discordanc3.
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/nkuek/discordance.git
+   git clone https://github.com/ycherradi/discordance.git
    ```
 
 2. Install dependencies
@@ -202,7 +202,7 @@ Contributions are what make the open source community such an amazing place to b
 * Leonardo Hernandez - [LinkedIn](https://www.linkedin.com/in/leorem/) - [GitHub](https://github.com/leoworkcp)
 
 
-Project Link: [https://github.com/nkuek/discordance](https://github.com/nkuek/discordance)
+Project Link: [https://github.com/ycherradi/discordance](https://github.com/ycherradi/discordance)
 
 ![My Channels](site-images/developers.png)
 <!-- ACKNOWLEDGEMENTS -->
